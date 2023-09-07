@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Private-Chat-App/static/css/main.491c0f6e.css",
+    "main.js": "/Private-Chat-App/static/js/main.d4c7bb91.js",
+    "index.html": "/Private-Chat-App/index.html",
+    "main.491c0f6e.css.map": "/Private-Chat-App/static/css/main.491c0f6e.css.map",
+    "main.d4c7bb91.js.map": "/Private-Chat-App/static/js/main.d4c7bb91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491c0f6e.css",
+    "static/js/main.d4c7bb91.js"
+  ]
+}
